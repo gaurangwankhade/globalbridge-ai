@@ -1,0 +1,10 @@
+project_id = "fwrkqjndpytjfisrzmwq"
+
+[functions.optimize-route]
+verify_jwt = true
+
+[functions.check-compliance]
+verify_jwt = true
+
+[functions.match-buyers]
+verify_jwt = true
